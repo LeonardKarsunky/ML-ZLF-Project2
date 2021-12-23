@@ -6,7 +6,7 @@ The following instructions will allow to run the code.
 
 First you open the notebook "ZLF-project-final.ipynb".
 
-In the first cell you have all the included library that you can just run. In the second cell you find variables that require changes. Now you need to define the number of patients whose images you want to align (i.e. 5 would be the first 5 patients in the dataset). You need to put the variable "initial_directory" to the directory that your "ZLF-project-final" is in.
+In the first cell you have all the included libraries that are needed to execute the code. In the second cell you find variables that require changes. Now you need to define the number of patients whose images you want to align (i.e. 5 would be the first 5 patients in the dataset). You need to put the variable "initial_directory" to the directory that your "ZLF-project-final" is in.
 
 The "output_directory" should be equal to the path of the folder where you want to save the aligned images. All registered images will have the exact same name as before.
 
