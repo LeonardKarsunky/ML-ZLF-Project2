@@ -1,6 +1,6 @@
 # ML Project 2: Ophthalmology Image Registration
 
-# By Leonard Karsunky, Florian Aubert and Zoe Jungi
+## By Leonard Karsunky, Florian Aubert and Zoe Jungi
 
 The following instructions will allow to run the code.
 
